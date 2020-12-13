@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: ''
-disqus: ''
+disqus: 'ffblog-1'
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
@@ -20,7 +20,7 @@ authors:
     email: flavio.alves@gmail.com
     web: https://www.phiinnovations.com
     twitter: https://twitter.com/phiinnovations
-    description: "Embedded systems designer, software developer with strong skills in networking. Founder of PHI Innovations"
+    description: ""
 
 # Plugins
 plugins:
