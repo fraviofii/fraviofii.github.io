@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First test post"
-author: Flavio Alves
+author: flavio
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/11.jpg
