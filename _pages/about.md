@@ -26,9 +26,9 @@ comments: false
 <p>The purpose of this blog is to share some of my recent experience in embedded systems. My current interests are:</p>
 
 <ul>
-<li>NuttX operating systems
-<li>TinyML
-<li>C++ language
+<li>NuttX operating systems</li>
+<li>TinyML</li>
+<li>C++ language</li>
 </ul>
 
 <p>This blog is personal, and there is no relation to the company activities or products.</p>
