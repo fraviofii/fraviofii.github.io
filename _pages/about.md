@@ -1,34 +1,38 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About me
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>My name is Flavio Alves, an embedded systems designer from Brazil and founder of <a href="http://www.phiinnovations.com/en">PHI Innovations</a>.
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<p> I started my electronics engineer carreer in 
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
-<h4>Questions or bug reports?</h4>
+<p>My name is Flavio Alves, I am an electronic engineer with expertise in embedded systems design and founder of <a href="http://www.phiinnovations.com/en">PHI Innovations</a>.</p>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>My career started in 2003, working with firmware development. I had the opportunity to work in several hardware and embedded software projects for telecommunication, retail, aerospace, and payment applications.</p>
 
-</div>
+<p>In 2008 I started PHI Innovations. The company purpose was to support electronic companies with high skilled professionals in creating new products using high performance embedded microprocessors. We were pioneers in embedded Linux applications in Brazil.</p>
 
-<div class="col-md-4">
+<p>Since 2018 the company changed its purpose. We created a new product target industrial Internet of Things (IoT) applications (Industrie 4.0). The new purpose is to support industrial, commercial installations to be more efficient using IoT technologies. As an (old) new start-up, we are please to have some Brazilian start-up awards based on our recent performance.</p>
 
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<p>In 2019 I joined Toptal, where I am having the opportunity to work with amazing project all over the world.</p>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>The purpose of this blog is to share some of my recent experience in embedded systems. My current interests are:</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<ul>
+<li>NuttX operating systems
+<li>TinyML
+<li>C++ language
+</ul>
+
+<p>This blog is personal, and there is no relation to the company activities or products.</p>
+
 
 </div>
 </div>
