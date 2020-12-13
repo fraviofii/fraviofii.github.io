@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'G-SGGPWG5HE7'
 disqus: 'ffblog-1'
-mailchimp-list: 'fe3f173864'
+mailchimp-list: 'https://phiinnovations.us7.list-manage.com/subscribe/post?u=511975e2396f4d096e8b0de6b&amp;id=fe3f173864'
 include: ["_pages"]
 permalink: /:title/
 
