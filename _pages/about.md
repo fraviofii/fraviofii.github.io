@@ -33,7 +33,6 @@ comments: false
 
 <p>This blog is personal, and there is no relation to the company activities or products.</p>
 
+</div>
+</div>
 
-</div>
-</div>
-</div>
