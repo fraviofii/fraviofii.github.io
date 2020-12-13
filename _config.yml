@@ -4,7 +4,7 @@ title: "Flavio Alves Blog"
 description: "Blog about software development, embedded systems, tinyML"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
+baseurl: /
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
@@ -16,7 +16,7 @@ authors:
   flavio:
     name: Flavio Alves
     display_name: Flavio Alves
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: cea2d1fc3851eca72ab6e4840bf1ef10
     email: flavio.alves@gmail.com
     web: https://www.phiinnovations.com
     twitter: https://twitter.com/phiinnovations
